@@ -1,0 +1,4 @@
+#These settings are used for a single world in a multiworld server.
+#Thu Aug 04 13:52:21 CEST 2016
+WorldName=Hypixel Build Battle Map
+LastSaved=1470311541354
